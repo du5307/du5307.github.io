@@ -5,7 +5,7 @@ subtitle:   "Hello World, Hello Blog"
 date:       2015-12-04 16:53:00
 author:     "diamondu"
 header-img: "img/post-bg-2015.jpg"
-tags:生活
+tags:   - 生活
 ---
 > “对，这里有一个标点符号的坑.英文标点不起作用.” 
     
