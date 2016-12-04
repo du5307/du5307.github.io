@@ -8,3 +8,20 @@ header-img: "img/post-bg-2015.jpg"
 tags:
     - Life
 ---
+>"yes,you know,this is a start."
+## 前言
+估计很久后，想起这一天，也会觉得很有阳光。
+
+start(#build)
+难得折腾。
+<p id = "build"></p>
+---
+## 正文
+大概就是这么个事，知乎第一个最佳答案，看着还不错。
+有以下几个打算：
+***markdown**
+*git操作很hign
+*jekyll定制
+##后记
+差不多,可以开始了
+
