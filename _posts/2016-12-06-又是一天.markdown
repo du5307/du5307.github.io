@@ -39,15 +39,14 @@ tags: 生活
   curl_setopt();  
   CURLOPT_HTTPHEADER： http请求头,设置     HTTP(post,get都含有) 头字段的数组
   CURLOPT_POSTFIELDS
- ```            
+   ```            
  
-   ```c
- malloc() 最喜欢的是C语言.
- 
-   ```
+```c
+ malloc() 最喜欢的是C语言. 
+```
    
- ----
+----
  
- ## 结尾
+## 结尾
  加代码技能达成。
  明天要把发送写出来呀！
