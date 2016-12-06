@@ -26,10 +26,12 @@ tags: 生活
  ```
  明天去试试。
  
-* 数据库的set names utf8.
+ 
+*  数据库的set names utf8.
  临时设置客户端发送的值。
  
-* curl的用法。
+ 
+*  curl的用法。
   今天要给一个get请求，加请求头.
    ```php
   curl_setopt();
