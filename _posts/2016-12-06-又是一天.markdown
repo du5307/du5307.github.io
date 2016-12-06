@@ -19,26 +19,26 @@ tags: 生活
 晚上和那个签名杠上了，算是真正吃了一次php对象的亏。还好，最后找出问题了。
 
 * php的报错ini配置。
+
  ```php
-  ini_set('display_errors',0);
-	 error_reporting(-1);
-	  ```
-		 明天去试试。
-		 * 数据库的set names utf8.
-		  临时设置客户端发送的值。
-			* curl的用法。
-			  今天要给一个get请求，加请求头.
-				   ```php
-					   curl_setopt();
-						   CURLOPT_HTTPHEADER： http请求头,设置     HTTP(post,get都含有) 头字段的数组
-							   CURLOPT_POSTFIELDS
-								  ```            
-									 
-									 ```c
-									  malloc() 最喜欢的是C语言；
-										 ```
-										  
-										  ## 结尾
-										  加代码技能达成。
-											 明天要把发送写出来呀！
-:wq
+ ini_set('display_errors',0);
+ error_reporting(-1);
+ ```
+ 明天去试试。
+* 数据库的set names utf8.
+ 临时设置客户端发送的值。
+* curl的用法。
+  今天要给一个get请求，加请求头.
+   ```php
+  curl_setopt();
+  CURLOPT_HTTPHEADER： http请求头,设置     HTTP(post,get都含有) 头字段的数组
+  CURLOPT_POSTFIELDS
+ ```            
+ 
+ ```c
+ malloc() 最喜欢的是C语言；
+ ```
+ 
+ ## 结尾
+ 加代码技能达成。
+ 明天要把发送写出来呀！
