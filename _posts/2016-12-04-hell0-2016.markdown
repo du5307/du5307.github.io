@@ -2,7 +2,7 @@
 layout:     post
 title:      "Hello 2016"
 subtitle:   "start blog"
-date:       2015-12-04 16:53:00
+date:       2016-12-04 16:53:00
 author:     "diamondu"
 header-img: "img/post-bg-2015.jpg"
 tags: 生活
