@@ -20,21 +20,23 @@ tags: 生活
 
 * php的报错ini配置。
 
- ```php
- ini_set('display_errors',0);  
- error_reporting(-1);
- ```
- 明天去试试。
+  ```php
+      ini_set('display_errors',0);  
+     error_reporting(-1);
+   ```
+   明天去试试。
  
  
-*  数据库的set names utf8.
+*  数据库的set names utf8.  
+ 
  临时设置客户端发送的值。
  
  
 *  curl的用法。
   今天要给一个get请求，加请求头.
+  
    ```php
-  curl_setopt();
+  curl_setopt();  
   CURLOPT_HTTPHEADER： http请求头,设置     HTTP(post,get都含有) 头字段的数组
   CURLOPT_POSTFIELDS
  ```            
@@ -43,6 +45,7 @@ tags: 生活
  malloc() 最喜欢的是C语言.
  
    ```
+   
  ----
  
  ## 结尾
