@@ -21,7 +21,7 @@ tags: 生活
 * php的报错ini配置。
 
  ```php
- ini_set('display_errors',0);
+ ini_set('display_errors',0);  
  error_reporting(-1);
  ```
  明天去试试。
@@ -40,8 +40,10 @@ tags: 生活
  ```            
  
  ```c
- malloc() 最喜欢的是C语言；
+ malloc() 最喜欢的是C语言.
+ 
  ```
+ 
  
  ## 结尾
  加代码技能达成。
