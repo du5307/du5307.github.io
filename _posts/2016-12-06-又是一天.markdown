@@ -39,11 +39,11 @@ tags: 生活
   CURLOPT_POSTFIELDS
  ```            
  
- ```c
+   ```c
  malloc() 最喜欢的是C语言.
  
- ```
- 
+   ```
+ ----
  
  ## 结尾
  加代码技能达成。
